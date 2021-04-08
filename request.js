@@ -4,7 +4,6 @@
  * @LastEditors: itmanyong
  * @Description: axios请求库封装
  * @LastEditTime: 2021-03-31 13:13:22
- * @FilePath: \遂宁-社会资源视频联网\src\utils\request.js
  */
 
 import axios from "axios";
